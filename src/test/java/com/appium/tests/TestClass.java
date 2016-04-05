@@ -17,7 +17,7 @@ public class TestClass extends BaseClass{
 			
 		
 		driver.findElementByXPath(more).click();
-		//driver.findElementByXPath(login).click();
+		driver.findElementByXPath(login).click();
 		driver.closeApp();
 		
 		
