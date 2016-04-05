@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29554" started-at="2016-03-21T23:42:42Z" finished-at="2016-03-21T23:43:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29554" started-at="2016-03-21T23:42:42Z" finished-at="2016-03-21T23:43:12Z">
+      <class name="com.appium.tests.TestClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.appium.tests.TestClass@6a6203a5]" name="setUp" is-config="true" duration-ms="26267" started-at="2016-03-21T16:42:42Z" finished-at="2016-03-21T16:43:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tapOnSomething()[pri:0, instance:com.appium.tests.TestClass@6a6203a5]" name="tapOnSomething" duration-ms="3275" started-at="2016-03-21T16:43:09Z" finished-at="2016-03-21T16:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tapOnSomething -->
+      </class> <!-- com.appium.tests.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
